@@ -1,0 +1,43 @@
+Images:
+
+Colors:
+
+Fonts:
+
+Font size:
+
+Font weight:
+
+Line height:
+
+Gradients:
+
+Shadows:
+
+Logo:
+
+Icons:
+
+Spacing and Size:
+
+
+
+nav bar background color: acd373
+main nav:
+-font: source sans pro black
+-font color: f7f7f7
+-font-size: 18px
+navbar shadow:
+opacity:6%
+angle:120
+distance:5px
+spread:0%
+size:5px
+color:000000
+first section background: 9abd67
+first section text:
+font: source sans pro black
+size:48px
+color:f7f7f7
+header small text:
+
